@@ -1,16 +1,7 @@
-# template_project
+NAMA : DEA CIPTA NINGRUM AIMANTA PUTRI
+KELAS : 2A TRPL
+NIM : 362358302147
 
-A new Flutter project.
+note : Bapak, Mohon maaf, Github saya tidak bisa melakukan push dengan pesan eror seperti berikut. Ini sudah berlangsung sejak Awal Semester. Jadi saya Push Manual
+![image](https://github.com/user-attachments/assets/ec0ecafc-e3ba-4283-89aa-8c3a13a50452)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
