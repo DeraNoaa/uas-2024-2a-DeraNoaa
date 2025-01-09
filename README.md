@@ -1,16 +1,9 @@
-# template_project
+NAMA : DEA CIPTA NINGRUM AIMANTA PUTRI
+KELAS : 2A TRPL
+NIM : 362358302147 
 
-A new Flutter project.
+Note : Assalamualaikum Bapak, Mohon maaf github saya tidak bisa melakukan push melalui vscode, dengan mendapat pesan eror sebagai berikut dan sudah terjadi sejak awal semester 2 :
+![image](https://github.com/user-attachments/assets/8ccd7ed6-91c5-4c24-a242-b981d34c9ecf)
 
-## Getting Started
+Jadi saya push manual melalui github sendiri. Mohon atas pengertiannya bapak
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
