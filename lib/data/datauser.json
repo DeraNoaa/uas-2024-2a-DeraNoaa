@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+{
+    "users" : [
+        { "id": 1, "name":"Dea", "email": "Dea@example.com"}
+    ]
+=======
+{
+    "users" : [
+        { "id": 1, "name":"Dea", "email": "Dea@example.com"}
+    ]
+>>>>>>> 8ad3037d5dd2eff5935fb1ba379e0576c265872f
+}
